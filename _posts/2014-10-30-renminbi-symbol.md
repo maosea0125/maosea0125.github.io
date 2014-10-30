@@ -38,4 +38,4 @@ HTML方式：用转义符实现，实体名称"\&yen;" 实体编号 "\&#165;"
 
 当然，也可以使用font-face方式解决，和使用图片方式
 
-[XML与HTML字符实体引用列表](http://zh.wikipedia.org/wiki/XML%E4%B8%8EHTML%E5%AD%97%E7%AC%A6%E5%AE%9E%E4%BD%93%E5%BC%95%E7%94%A8%E5%88%97%E8%A1%A8)
+[XML与HTML字符实体引用列表](http://zh.wikipedia.org/wiki/XML%E4%B8%8EHTML%E5%AD%97%E7%AC%A6%E5%AE%9E%E4%BD%93%E5%BC%95%E7%94%A8%E5%88%97%E8%A1%A8){:target="_blank"}

@@ -1,41 +1,41 @@
 ---
 layout: default
-title: ÈËÃñ±Ò·ûºÅ(£¤)
+title: äººæ°‘å¸ç¬¦å·(ï¿¥)
 ---
 
-###£¤ÊÇÏÂÁÐÁ½ÖÖ»õ±ÒµÄ»õ±Ò·ûºÅ:
+###ï¿¥æ˜¯ä¸‹åˆ—ä¸¤ç§è´§å¸çš„è´§å¸ç¬¦å·:
 
-- ÈËÃñ±Ò£¨CNY£©
-- ÈÕÔª£¨JPY£©
+- äººæ°‘å¸ï¼ˆCNYï¼‰
+- æ—¥å…ƒï¼ˆJPYï¼‰
 
-ÒòÎªÒÔÉÏÁ½ÖÖ»õ±ÒµÄµ¥Î»¶¼ÊÇÔ²£¨Ô²£¯Ôª£¯ƒÒ£©£¬ÈÕÓï·¢ÒôÎªen¡£·ûºÅÓÉÀ­¶¡×ÖÄ¸¡°Y¡±ºÍÁ½µÀÆ½ÐÐË®Æ½Ïß×é³É¡£ÖÐ¹ú´óÂ½ÔçÆÚ¶àÊ¹ÓÃÒ»µÀË®Æ½Ïß£¬ÏÖÊ±Ôò¶àÊ¹ÓÃÁ½µÀË®Æ½Ïß¡£Ê¹ÓÃÀ­¶¡×ÖÄ¸¡°Y¡±µÄÔ­ÒòÊÇÒòÎª¡°Ô²¡±ºÍ¡°ƒÒ¡±ÔÚÓ¢ÎÄÖÐµÄÆ´Ð´¡°yuan¡±ºÍ¡°yen¡±µÄÆðÊ¼×ÖÄ¸¶¼ÊÇ¡°Y¡±¡£
+å› ä¸ºä»¥ä¸Šä¸¤ç§è´§å¸çš„å•ä½éƒ½æ˜¯åœ†ï¼ˆåœ†ï¼å…ƒï¼å††ï¼‰ï¼Œæ—¥è¯­å‘éŸ³ä¸ºenã€‚ç¬¦å·ç”±æ‹‰ä¸å­—æ¯â€œYâ€å’Œä¸¤é“å¹³è¡Œæ°´å¹³çº¿ç»„æˆã€‚ä¸­å›½å¤§é™†æ—©æœŸå¤šä½¿ç”¨ä¸€é“æ°´å¹³çº¿ï¼ŒçŽ°æ—¶åˆ™å¤šä½¿ç”¨ä¸¤é“æ°´å¹³çº¿ã€‚ä½¿ç”¨æ‹‰ä¸å­—æ¯â€œYâ€çš„åŽŸå› æ˜¯å› ä¸ºâ€œåœ†â€å’Œâ€œå††â€åœ¨è‹±æ–‡ä¸­çš„æ‹¼å†™â€œyuanâ€å’Œâ€œyenâ€çš„èµ·å§‹å­—æ¯éƒ½æ˜¯â€œYâ€ã€‚
 
-ÔÚÊ¹ÓÃ¡°£¤¡±»á»ìÏýÈËÃñ±ÒºÍÈÕÔªµÄÇé¿öÏÂ£¬Ó¦Ê¹ÓÃ¡°RMB£¤¡±×÷ÎªÈËÃñ±Ò·ûºÅ
+åœ¨ä½¿ç”¨â€œï¿¥â€ä¼šæ··æ·†äººæ°‘å¸å’Œæ—¥å…ƒçš„æƒ…å†µä¸‹ï¼Œåº”ä½¿ç”¨â€œRMBï¿¥â€ä½œä¸ºäººæ°‘å¸ç¬¦å·
 
-###¼ÆËã»úÊäÈë
+###è®¡ç®—æœºè¾“å…¥
 
-ÔÚMicrosoft Windows²Ù×÷ÏµÍ³ÖÐ£¬Èç¹û¼üÅÌÃ»ÓÐÄÜÖ±½ÓÊäÈë¡°£¤¡±µÄ°´¼ü£¬¿ÉÒÔÍ¨¹ýÒÔÏÂ²½ÖèÊäÈë¡°£¤¡±·ûºÅ:
+åœ¨Microsoft Windowsæ“ä½œç³»ç»Ÿä¸­ï¼Œå¦‚æžœé”®ç›˜æ²¡æœ‰èƒ½ç›´æŽ¥è¾“å…¥â€œï¿¥â€çš„æŒ‰é”®ï¼Œå¯ä»¥é€šè¿‡ä»¥ä¸‹æ­¥éª¤è¾“å…¥â€œï¿¥â€ç¬¦å·:
 
-- °´ÏÂalt¼ü
-- ÔÚ¼üÅÌÓÒ²àµÄÊý×Ö¼üÅÌ´¦ÊäÈë¡°0165¡±
-- ËÉ¿ªalt¼ü
+- æŒ‰ä¸‹alté”®
+- åœ¨é”®ç›˜å³ä¾§çš„æ•°å­—é”®ç›˜å¤„è¾“å…¥â€œ0165â€
+- æ¾å¼€alté”®
 
-ÔÚMicrosoft WordÖÐ£¬¿ÉÒÔÏÈ¼üÈë¡°00A5¡±»ò¡°00a5¡±£¬È»ºó°´ÏÂalt£«X¼üÀ´ÊäÈë¡°£¤¡±·ûºÅ
+åœ¨Microsoft Wordä¸­ï¼Œå¯ä»¥å…ˆé”®å…¥â€œ00A5â€æˆ–â€œ00a5â€ï¼Œç„¶åŽæŒ‰ä¸‹altï¼‹Xé”®æ¥è¾“å…¥â€œï¿¥â€ç¬¦å·
 
-ÔÚÓ¢ÎÄMac OS X²Ù×÷ÏµÍ³ÖÐ£¬¿ÉÒÔÍ¨¹ý°´ÏÂOption¼üÔÚÊäÈë¡°Y¡±À´ÊäÈë¡°£¤¡±
+åœ¨è‹±æ–‡Mac OS Xæ“ä½œç³»ç»Ÿä¸­ï¼Œå¯ä»¥é€šè¿‡æŒ‰ä¸‹Optioné”®åœ¨è¾“å…¥â€œYâ€æ¥è¾“å…¥â€œï¿¥â€
 
-ÔÚ¼òÌåÖÐÎÄÊäÈë·¨ÈçÎ¢ÈíÆ´Òô¡¢ËÑ¹·Æ´ÒôÊäÈë·¨»òFcitxÖÐ£¬Ö±½Ó°´ÏÂ¡°$¡±¼ü»áÊäÈëÈ«½Ç×Ö·û¡°£¤¡±£¬¶ø·Ç°ë½ÇË«ºáÏß×Ö·û¡°£¤¡±¡£µ«ÊÇËÑ¹·Æ´ÒôÊäÈë·¨ºÍFcitxÓÃ»§¿ÉÒÔÍ¨¹ýÓÃ»§×Ô¶¨Òå·ûºÅÀ´ÊäÈë¡°£¤¡±
+åœ¨ç®€ä½“ä¸­æ–‡è¾“å…¥æ³•å¦‚å¾®è½¯æ‹¼éŸ³ã€æœç‹—æ‹¼éŸ³è¾“å…¥æ³•æˆ–Fcitxä¸­ï¼Œç›´æŽ¥æŒ‰ä¸‹â€œ$â€é”®ä¼šè¾“å…¥å…¨è§’å­—ç¬¦â€œï¿¥â€ï¼Œè€ŒéžåŠè§’åŒæ¨ªçº¿å­—ç¬¦â€œï¿¥â€ã€‚ä½†æ˜¯æœç‹—æ‹¼éŸ³è¾“å…¥æ³•å’ŒFcitxç”¨æˆ·å¯ä»¥é€šè¿‡ç”¨æˆ·è‡ªå®šä¹‰ç¬¦å·æ¥è¾“å…¥â€œï¿¥â€
 
-ÔÚHTML£¬¡°£¤¡±µÄÃüÃûÊµÌåÊÇ¡°&yen;¡±£¬x×Ö·û´úÂëÊÇ ¡°&#165;¡± ºÍ ¡°&#xA5;¡±
+åœ¨HTMLï¼Œâ€œï¿¥â€çš„å‘½åå®žä½“æ˜¯â€œ&yen;â€ï¼Œxå­—ç¬¦ä»£ç æ˜¯ â€œ&#165;â€ å’Œ â€œ&#xA5;â€
 
-###HTMLÖÐÕýÈ·ÏÔÊ¾
+###HTMLä¸­æ­£ç¡®æ˜¾ç¤º
 
-µ«ÊÇ£¤£¨Ö¸µÄÊÇÍ¨³£ÊäÈë·¨ÖÐÎÄÈ«½ÇÄ£Ê½ÏÂ°´shift+4µÄÄÇ¸ö£©ÔÚËÎÌå£¨v3.03, v5.0£©µÄÇé¿öÏÂÊÇÏÔÊ¾Ò»¸Ü¡£³£¼ûµÄÆäËû×ÖÌåÎ¢ÈíÑÅºÚ£¨Microsoft YaHei£©£¬»ªÎÄÏ¸ºÚ£¨STXihei£©£¬¼šÃ÷ów£¨MingLiu£©ÄÜÏÔÊ¾Á½¸Ü
+ä½†æ˜¯ï¿¥ï¼ˆæŒ‡çš„æ˜¯é€šå¸¸è¾“å…¥æ³•ä¸­æ–‡å…¨è§’æ¨¡å¼ä¸‹æŒ‰shift+4çš„é‚£ä¸ªï¼‰åœ¨å®‹ä½“ï¼ˆv3.03, v5.0ï¼‰çš„æƒ…å†µä¸‹æ˜¯æ˜¾ç¤ºä¸€æ ã€‚å¸¸è§çš„å…¶ä»–å­—ä½“å¾®è½¯é›…é»‘ï¼ˆMicrosoft YaHeiï¼‰ï¼ŒåŽæ–‡ç»†é»‘ï¼ˆSTXiheiï¼‰ï¼Œç´°æ˜Žé«”ï¼ˆMingLiuï¼‰èƒ½æ˜¾ç¤ºä¸¤æ 
 
-CSS·½Ê½£ºfont-family: 'Microsoft YaHei',STXihei,MingLiu
+CSSæ–¹å¼ï¼šfont-family: 'Microsoft YaHei',STXihei,MingLiu
 
-HTML·½Ê½£ºÓÃ×ªÒå·ûÊµÏÖ£¬ÊµÌåÃû³Æ¡°&yen;¡± ÊµÌå±àºÅ ¡°&#165;¡±
+HTMLæ–¹å¼ï¼šç”¨è½¬ä¹‰ç¬¦å®žçŽ°ï¼Œå®žä½“åç§°â€œ&yen;â€ å®žä½“ç¼–å· â€œ&#165;â€
 
-µ±È»£¬Ò²¿ÉÒÔÊ¹ÓÃfont-face·½Ê½½â¾ö£¬ºÍÊ¹ÓÃÍ¼Æ¬·½Ê½
+å½“ç„¶ï¼Œä¹Ÿå¯ä»¥ä½¿ç”¨font-faceæ–¹å¼è§£å†³ï¼Œå’Œä½¿ç”¨å›¾ç‰‡æ–¹å¼
 
-[XMLÓëHTML×Ö·ûÊµÌåÒýÓÃÁÐ±í](http://zh.wikipedia.org/wiki/XML%E4%B8%8EHTML%E5%AD%97%E7%AC%A6%E5%AE%9E%E4%BD%93%E5%BC%95%E7%94%A8%E5%88%97%E8%A1%A8)
+[XMLä¸ŽHTMLå­—ç¬¦å®žä½“å¼•ç”¨åˆ—è¡¨](http://zh.wikipedia.org/wiki/XML%E4%B8%8EHTML%E5%AD%97%E7%AC%A6%E5%AE%9E%E4%BD%93%E5%BC%95%E7%94%A8%E5%88%97%E8%A1%A8)

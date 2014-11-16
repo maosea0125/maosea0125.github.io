@@ -36,3 +36,11 @@ symfony-course
         app.php       -> prod环境引导文件
         app_dev.php   -> dev环境引导文件
 </code></pre>
+
+配置文件类型
+============
+Symfony2中的配置文件, 我们可以使用3中类型:
+YAML - 单独的YML配置文件
+XML  - 单独的XML配置文件
+PHP  - 单独的PHP配置文件
+ANNOTATION - 融合在PHP文件中的注释  

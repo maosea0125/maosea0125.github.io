@@ -22,16 +22,11 @@ title: Symfony2 教程1 - 配置和安装Symfony2
 ============
 配置vhost, 指向项目的web目录. 我的配置如下:
 <pre><code>
-
-#symfony course
-<VirtualHost *:80>
-    ServerAdmin john.mao@expacta.com.cn
-    DocumentRoot "D:\Project\symfony-course\web"
-    ServerName symfony.course
-    ErrorLog "logs/symfony.course-error.log"
-    CustomLog "logs/symfony.course-access.log" combined
-</VirtualHost>
-
+ServerAdmin john.mao@expacta.com.cn
+DocumentRoot "D:\Project\symfony-course\web"
+ServerName symfony.course
+ErrorLog "logs/symfony.course-error.log"
+CustomLog "logs/symfony.course-access.log" combined
 </code></pre>
 
 完成后, 我们访问 http://symfony.course/app_dev.php , 就可以看到欢迎信息, OK, 我们就已经安装和配置好了Symfony

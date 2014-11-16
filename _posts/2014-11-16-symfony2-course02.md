@@ -5,14 +5,14 @@ title: Symfony2教程02 - 说明
 
 Bundle
 ========
-Symfony2中一个比较重要的概念就是Bundle. 个人理解, Bundle就类似Symfony1中的插件, 我们可以开发各种不同的Bundle: UserBundle, CmsBundle ... , 在开发新项目的时候, 只需要安装加载需要的Bundle即可, 减少重复开发. 
+Symfony2中一个比较重要的概念就是Bundle. 个人理解, Bundle就类似Symfony1中的插件, 我们可以开发各种不同的Bundle: UserBundle, CmsBundle ... , 在开发新项目的时候, 只需要安装加载需要的Bundle即可, 减少重复开发.  
 
 环境
 ========
-Symfony2有3个环境, 分别是:
-dev  - 开发环境
-test - 测试环境
-prod - 生产环境
+Symfony2有3个环境, 分别是:  
+dev  - 开发环境  
+test - 测试环境  
+prod - 生产环境  
 
 目录结构
 ========

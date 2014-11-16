@@ -15,8 +15,23 @@ title: Symfony2 教程1 - 配置和安装Symfony2
 
 等到命令执行完成, 会需要你配置数据库和邮件的一些信息, 可以全部回车, 后面我们直接修改配置文件, 请看[symfony2-install-complete.jpg](/images/symfony2-install-complete.jpg).
 
-完成后我们, 我们在项目文件夹下执行命令检查我们的PHP配置是否符合要求, 根据命令结果修改你的配置:
+完成后我们, 我们在项目文件夹下执行下面的命令, 检查我们的PHP配置是否符合要求, 根据命令结果修改你的配置:
 <pre><code>php app/check.php</code></pre>
 
 配置Symfony2
 ============
+配置vhost, 指向项目的web目录. 我的配置如下:
+<pre><code>
+
+#symfony course
+<VirtualHost *:80>
+    ServerAdmin john.mao@expacta.com.cn
+    DocumentRoot "D:\Project\symfony-course\web"
+    ServerName symfony.course
+    ErrorLog "logs/symfony.course-error.log"
+    CustomLog "logs/symfony.course-access.log" combined
+</VirtualHost>
+
+</code></pre>
+
+完成后, 我们访问 http://symfony.course/app_dev.php , 就可以看到欢迎信息, OK, 我们就已经安装和配置好了Symfony

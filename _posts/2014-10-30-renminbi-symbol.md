@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 人民币符号(￥)
+forward: true
 ---
 
 ￥是下列两种货币的货币符号:

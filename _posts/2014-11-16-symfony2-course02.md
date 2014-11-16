@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Symfony2教程02 - 说明
+forward: true
 ---
 
 Bundle

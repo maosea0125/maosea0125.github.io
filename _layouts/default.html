@@ -29,7 +29,7 @@
             </ul></nav>
             <section>
                 <h1>{{ page.title }}</h1>
-                {if page.forward}<h5>* 如需转载, 请注明转自<a href="http://maosea0125.github.io/">Maosea0125</a></h5>{/if}
+                {% if page.forward %}<h5>* 如需转载, 请注明转自<a href="http://maosea0125.github.io/">Maosea0125</a></h5>{% endif %}
                 {{ content }}
             </section>
             <footer>

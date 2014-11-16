@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Symfony2 教程2 - 说明
+title: Symfony2教程02 - 说明
 ---
 
 Bundle

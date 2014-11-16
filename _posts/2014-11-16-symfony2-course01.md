@@ -17,3 +17,6 @@ title: Symfony2 教程1 - 配置和安装Symfony2
 
 完成后我们, 我们在项目文件夹下执行命令检查我们的PHP配置是否符合要求, 根据命令结果修改你的配置:
 <pre><code>php app/check.php</code></pre>
+
+配置Symfony2
+============

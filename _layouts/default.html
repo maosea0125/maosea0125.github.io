@@ -28,7 +28,8 @@
                 <li>微信推荐</li>
             </ul></nav>
             <section>
-                <h1>{{ page.title }}</h2>
+                <h1>{{ page.title }}</h1>
+                {if page.forward}<h5>* 如需转载, 请注明转自<a href="http://maosea0125.github.io/">Maosea0125</a></h5>{/if}
                 {{ content }}
             </section>
             <footer>

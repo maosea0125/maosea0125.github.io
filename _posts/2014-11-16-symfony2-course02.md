@@ -39,7 +39,7 @@ symfony-course
 
 配置文件类型
 ============
-Symfony2中的配置文件, 我们可以使用3中类型:
+Symfony2中的配置文件, 我们可以使用3中类型:  
 YAML - 单独的YML配置文件  
 XML  - 单独的XML配置文件  
 PHP  - 单独的PHP配置文件  

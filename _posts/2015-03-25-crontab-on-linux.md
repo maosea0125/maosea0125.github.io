@@ -26,14 +26,14 @@ forward: true
 - 星期中的每天  
   
 每周五的01:00:00执行:  
-<code>0 1 * * 5 php /home/httpd/html/rapidmanager/scripts/cronjobs/exportSubscribersForBcn.php</code>  
+<pre><code>0 1 * * 5 php /home/httpd/html/rapidmanager/scripts/cronjobs/exportSubscribersForBcn.php</code></pre>  
 
 工作日的01:00:00执行:  
-<code>0 1 * * 1-5 php /home/httpd/html/rapidmanager/scripts/cronjobs/exportSubscribersForBcn.php</code>  
+<pre><code>0 1 * * 1-5 php /home/httpd/html/rapidmanager/scripts/cronjobs/exportSubscribersForBcn.php</code></pre>  
   
 每10分钟执行一次:  
-<code>0,10,20,30,40,50 * * * * php /home/httpd/html/rapidmanager/scripts/cronjobs/exportSubscribersForBcn.php</code>  
+<pre><code>0,10,20,30,40,50 * * * * php /home/httpd/html/rapidmanager/scripts/cronjobs/exportSubscribersForBcn.php</code></pre>  
 或者:  
-<code>*/10 * * * * php /home/httpd/html/rapidmanager/scripts/cronjobs/exportSubscribersForBcn.php</code>  
+<pre><code>*/10 * * * * php /home/httpd/html/rapidmanager/scripts/cronjobs/exportSubscribersForBcn.php</code></pre>  
   
 [阅读原文](http://kvz.io/blog/2007/07/29/schedule-tasks-on-linux-using-crontab/)  

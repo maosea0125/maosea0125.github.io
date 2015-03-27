@@ -16,7 +16,8 @@ forward: true
 ==========
 - 下载NPM源码, [下载地址](https://github.com/npm/npm/tags)  
 - 解压到D:\npmjs目录, 执行一下命令: 
-<pre><code>D:\>cd npmjs
+<pre><code>
+    D:\>cd npmjs
     D:\npmjs>node cli.js install -gf
 </code></pre>  
 - 能够正常执行<code>npm -v</code>, 则NPM安装成功  
@@ -25,7 +26,8 @@ forward: true
 使用NPM安装nodejs的包(以express为例)
 ====================
 - 执行一下命令:  
-<pre><code>npm install -g express //安装最新版本的express, -g 标识以全局的形式安装包
+<pre><code>
+    npm install -g express //安装最新版本的express, -g 标识以全局的形式安装包
     npm install -g express-generator  //安装express-generator, 这样才能使用express命令
     npm remove -g express //删除express
 </code></pre>  
